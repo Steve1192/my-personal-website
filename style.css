@@ -19,12 +19,13 @@ font-size: 17px;
   }
 
   h2{
-
+    color: black;
     font-size: 59px;
   }
 
   #coaches{
 color: black;
 font-size: 17px;
+font-family: verdana;
 
   }
